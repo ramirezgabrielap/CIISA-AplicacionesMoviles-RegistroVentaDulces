@@ -9,7 +9,7 @@ realizando una App Android básica para registrar las ventas de Dulces.
 
 - `Funcionalidad 1`: Registrar Nombre de quien desea los Dulces.
 - `Funcionalidad 2`: Registrar la Cantidad de cada Dulce.
-- `Funcionalidad 2`: Calcula el total a pagar de cada pedido (por cada tipo de dulce y el resultado final).
+- `Funcionalidad 3`: Calcula el total a pagar de cada pedido (por cada tipo de dulce y el resultado final).
 
 ![Manjarsh app](https://github.com/ramirezgabrielap/CIISA-AplicacionesMoviles-RegistroVentaDulces/assets/100728813/08428cb0-d215-493b-a42e-32c408de19ca)
 
